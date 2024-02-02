@@ -1,1 +1,1 @@
-This folder contains all my Power BI projects.
+Welcome to my Power BI showcase! 📊 Explore a collection of dynamic and insightful projects that demonstrate my proficiency in transforming raw data into actionable insights. As a passionate data enthusiast, I leverage Power BI to create visually compelling and interactive dashboards that drive informed decision-making.
