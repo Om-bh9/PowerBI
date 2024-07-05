@@ -4,6 +4,13 @@ In today's fast-paced business environment, the efficiency and effectiveness of 
 
 [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjc3YjFlZTgtMGFmZC00YmM0LTg4OWEtNjBlMGRmZDVlYzA0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
+<p align="center">
+  <img src="https://github.com/Om-bh9/PowerBI/assets/137262211/901e51cc-d3d8-4794-9bc6-29b050009735" alt="1" width="30%" />
+  <img src="https://github.com/Om-bh9/PowerBI/assets/137262211/8e474422-e4ed-47e4-917a-8ea378eff870" alt="2" width="30%" />
+  <img src="https://github.com/Om-bh9/PowerBI/assets/137262211/bb022304-b1fc-481e-bd8c-d5e63e80df76" alt="3" width="30%" />
+</p>
+
+
 ## Peak Ticket Creation Times
 Understanding when tickets are most frequently created is crucial for resource allocation and staffing optimization. By analyzing historical data, we identified peak ticket creation times, enabling the Technical Support Centre to anticipate and prepare for surges in demand. This insight aids in ensuring prompt responses to customer inquiries, thereby enhancing overall service quality.
 
@@ -31,3 +38,4 @@ Customer satisfaction is a paramount metric for gauging the success of technical
 
 ## Conclusion
 In conclusion, this report provides a comprehensive analysis of Technical Support Centre performance, offering valuable insights into ticket creation patterns, SLA adherence, customer satisfaction rates, and various performance metrics. By leveraging these insights, businesses can optimize their technical support operations, enhance service quality, and ultimately, drive greater customer satisfaction and loyalty. Through continuous monitoring and analysis, organizations can stay agile and responsive to evolving customer needs, ensuring sustained success in today's dynamic business landscape.
+
