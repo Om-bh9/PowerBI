@@ -2,7 +2,7 @@
 
 In today's fast-paced business environment, the efficiency and effectiveness of technical support operations can make or break a company's reputation and customer satisfaction. As businesses increasingly rely on technology for their daily operations, the need for robust technical support services becomes more critical than ever. This report delves into the intricate workings of a Technical Support Centre, providing insights derived from a thorough analysis of various performance metrics.
 
-[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjc3YjFlZTgtMGFmZC00YmM0LTg4OWEtNjBlMGRmZDVlYzA0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9).
+[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjc3YjFlZTgtMGFmZC00YmM0LTg4OWEtNjBlMGRmZDVlYzA0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ## Peak Ticket Creation Times
 Understanding when tickets are most frequently created is crucial for resource allocation and staffing optimization. By analyzing historical data, we identified peak ticket creation times, enabling the Technical Support Centre to anticipate and prepare for surges in demand. This insight aids in ensuring prompt responses to customer inquiries, thereby enhancing overall service quality.
